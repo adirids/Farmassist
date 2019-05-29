@@ -1,8 +1,9 @@
 # Farmassist
-Client-Server for farming
+>Client-Server for farming
+
 ## FARMASSIST-Connecting farmers through multithreading
 
-OS concepts of multithreading and  inter-process-communication are being used in this work.
+>OS concepts of multithreading and  inter-process-communication are being used in this work.
 
 ### INTRODUCTION
 A thread is a single sequence stream within a process which can be managed independently by a scheduler. Also known as lightweight processes, threads allow multiple execution of streams. They made an early appearance under the name of tasks in OS/360 Multiprogramming with a Variable Number of Tasks in 1967 until Victor A. Vyssotsky named them threads.
@@ -40,3 +41,4 @@ Most of these apps focus on the crop aspect of farming with none of them focusin
 
 Coming to the client server chat model it is a working model in countries like USA where the literacy rate is quite high. Farmers  have access to mobiles. They have proper connectivity. They know how to approach the authorities. The authorities too are quite aware about the need of the farmers. 
 The use of client server chat model by farmers in India isn’t that successful as the literacy rate is low.  They can,t use these apps as they are not able to understand these complex apps. Hence this project proposes an image based app which will help the farmers.
+
