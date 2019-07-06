@@ -5,6 +5,8 @@
 
 >OS concepts of multithreading and  inter-process-communication are being used in this work.
 
+[![made-with-java](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.java.com/)
+
 ### INTRODUCTION
 A thread is a single sequence stream within a process which can be managed independently by a scheduler. Also known as lightweight processes, threads allow multiple execution of streams. They made an early appearance under the name of tasks in OS/360 Multiprogramming with a Variable Number of Tasks in 1967 until Victor A. Vyssotsky named them threads.
 Initially the concept of single-threading was implemented. Single-threading is the processing of one command at a time i.e. the work is completed as a single stream of instructions in a certain amount of time.  However, this wasn’t efficient enough and a new concept called multithreading was developed. Multithreading is a widespread programming and execution model that allows multiple threads to exist within the context of one process. These threads share the process's resources, but are able to execute independently. It proved to be advantageous over single-threading due to the following reasons:
