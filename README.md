@@ -7,8 +7,6 @@
 
 [![forthebadge made-with-java](http://ForTheBadge.com/images/badges/made-with-java.svg)](https://www.java.com/)
 
-[![made-with-java](https://img.shields.io/badge/Made%20with-java-1f425f.svg)](https://www.java.com/)  
-
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 ### INTRODUCTION
